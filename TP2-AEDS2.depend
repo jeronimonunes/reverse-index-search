@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1400607312 source:/home/grad/ccomp/13/jeronimonunes/Documents/UFMG/AEDS/TP2-AEDS2/main.cpp
+	<iostream>
+	"src/set.h"
+
+1400610146 /home/grad/ccomp/13/jeronimonunes/Documents/UFMG/AEDS/TP2-AEDS2/src/set.h
+	<string>
+
+1401742447 source:/home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/main.cpp
+	<iostream>
+	"src/Iterator.h"
+	"src/LinkedMap.h"
+	"src/SearchMachine.h"
+	"src/Registry.h"
+	"src/Util.h"
+
+1401742940 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/set.h
+	"iostream"
+	"Node.h"
+	"Iterator.h"
+	"LinkedListIterator.h"
+
+1401739212 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/LinkedMap.h
+	"set.h"
+	"AbstractMap.h"
+	"Registry.h"
+	"Iterator.h"
+	"LinkedListIterator.h"
+	"Node.h"
+
+1401243792 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/AbstractMap.h
+
+1401247338 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Registry.h
+
+1401414815 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Iterator.h
+
+1401412953 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/LinkedListIterator.h
+	"Node.h"
+	"Iterator.h"
+
+1401247490 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Node.h
+
+1401750539 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/SearchMachine.h
+	"string"
+	"stdio.h"
+	"HashMap.h"
+	"Exception.h"
+
+1401750577 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/HashMap.h
+	"set.h"
+	"LinkedMap.h"
+	"Hash.h"
+	"Iterator.h"
+	"ArrayIterator.h"
+	"LinkedListIterator.h"
+	"stdio.h"
+	"stdlib.h"
+
+1401414887 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Hash.h
+
+1401241701 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Exception.h
+	"iostream"
+
+1401318174 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/HashMapIterator.h
+	"Iterator.h"
+	"ArrayIterator.h"
+	"LinkedListIterator.h"
+
+1401412963 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/ArrayIterator.h
+	"Iterator.h"
+
+1401457921 /home/jeronimo/codigos/workspaces/Pessoal/TP2-AEDS2/src/Util.h
+	"set.h"
+

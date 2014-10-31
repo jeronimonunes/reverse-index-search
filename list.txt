@@ -1,0 +1,5 @@
+shakespeare/	hamlet.txt
+shakespeare/	kinglear.txt
+shakespeare/	macbeth.txt
+shakespeare/	othello.txt
+shakespeare/	romeoandjuliet.txt
